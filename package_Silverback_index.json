@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "Silverback",
-      "maintainer": "Umair",
+      "maintainer": "Silverback",
       "websiteURL": "http://silver-back.co/",
       "email": "muhammad.umair@silverback.com",
       "help": {
@@ -14,9 +14,9 @@
           "architecture": "avr",
           "version": "1.1.5",
           "category": "Contributed",
-          "url": "https://raw.githubusercontent.com/Silverback-Pvt-Ltd/surilli.io/master/surilli-1.1.5.zip",
+          "url": "https://raw.githubusercontent.com/mumair1k992/Silverback/master/surilli-1.1.5.zip",
           "archiveFileName": "surilli-1.1.5.zip",
-          "checksum": "SHA-256:95F096B4377E2527061D3E9558A5A1C138CB8B0146656C463A2B5F0BFF39B889",
+          "checksum": "SHA-256:18FB79628BBA710701994F13FF9062059026BD02F7986E3FFB79B570C4DF3421",
           "size": "1162215",
           "help": {
             "online": "http://surilli.io/"
@@ -36,9 +36,9 @@
           "architecture": "avr",
           "version": "1.1.6",
           "category": "Contributed",
-          "url": "https://raw.githubusercontent.com/Silverback-Pvt-Ltd/surilli.io/master/surilli-1.1.6.zip",
+          "url": "https://raw.githubusercontent.com/mumair1k992/Silverback/master/surilli-1.1.6.zip",
           "archiveFileName": "surilli-1.1.6.zip",
-          "checksum": "SHA-256:9C6A83722D3A0E76BBF6CC9FA7CB67739490BA60D3BEC084690BFF5D3DFB9278",
+          "checksum": "SHA-256:748E6CA44231F60BEF704249C9BBC001A9C27414AFB5FB117D53C00A1DA3527E",
           "size": "1159276",
           "help": {
             "online": "http://surilli.io/"
